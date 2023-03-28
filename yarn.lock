@@ -1671,10 +1671,10 @@
   "resolved" "https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz"
   "version" "1.0.0"
 
-"bootstrap@^4.3.1":
-  "integrity" "sha512-vlGn0bcySYl/iV+BGA544JkkZP5LB3jsmkeKLFQakCOwCM3AOk7VkldBz4jrzSe+Z0Ezn99NVXa1o45cQY4R6A=="
-  "resolved" "https://registry.npmjs.org/bootstrap/-/bootstrap-4.5.2.tgz"
-  "version" "4.5.2"
+"bootstrap@^4.6.0":
+  "integrity" "sha512-51Bbp/Uxr9aTuy6ca/8FbFloBUJZLHwnhTcnjIeRn2suQWsWzcuJhGjKDB5eppVte/8oCdOL3VuwxvZDUggwGQ=="
+  "resolved" "https://registry.npmjs.org/bootstrap/-/bootstrap-4.6.2.tgz"
+  "version" "4.6.2"
 
 "brace-expansion@^1.1.7":
   "integrity" "sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA=="
